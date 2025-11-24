@@ -12,15 +12,15 @@
 - 🌱 **Just started learning GitHub**
 - 📘 I believe in *learning one step at a time*
 - 💬 Happy to connect and learn from others
-- 📫 **Email:** `rksinghbth500@gmail.com`
-- 📱 **Contact:** `+91 9931407321`
+- 📫 **Email:** `Saksham.2452447@mygyanvihar.com`
+- 📱 **Contact:** `+91 7903382322`
 
 
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/rksingh1713"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
-  <a href="mailto:rksinghbth500@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rajsaksham"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
+  <a href="mailto:Saksham.2452447@mygaynvihar.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" /></a>
 </p>
 
 
